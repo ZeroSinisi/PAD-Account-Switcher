@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PAD Account Switcher</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="backup">Backup Current Account</string>
+    <string name="restore">Restore Selected Account</string>
+    <string name="delete">Delete Selected Account</string>
+    <string name="name">Account Name</string>
+
+</resources>
